@@ -1,0 +1,10 @@
+﻿  game.cpp
+C:\Users\Admin\Desktop\game\game\ConsoleApplication1\thuvien.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'game.cpp')
+  
+C:\Users\Admin\Desktop\game\game\ConsoleApplication1\thuvien.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  (compiling source file 'game.cpp')
+  
+C:\Users\Admin\Desktop\game\game\ConsoleApplication1\game.cpp(168,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Admin\Desktop\game\game\ConsoleApplication1\game.cpp(175,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\Desktop\game\game\x64\Debug\ConsoleApplication1.exe
